@@ -37,8 +37,8 @@ end
 
 # Define your play method below
 def play(board)
-  while turn < 10
-    turn += 1
+  while count < 10
+    count += 1
     turn
   end
 end
